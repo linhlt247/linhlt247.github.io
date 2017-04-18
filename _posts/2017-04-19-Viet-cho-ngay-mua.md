@@ -7,7 +7,7 @@ bigimg: /img/mua.jpg
 
 **Mưa! - ký ức buồn**
 
-Tôi là mội người đa sầu đa cảm. Nó, làm khổ tôi từ quá khứ, cho đến hiện tại, và tôi nghĩ rằng, nó sẽ theo tôi suốt cả đời mât!
+Tôi là mội người đa sầu đa cảm. Nó, làm khổ tôi từ quá khứ, cho đến hiện tại, và tôi nghĩ rằng, nó sẽ theo tôi suốt cả đời mất!
 
 Tôi là một người thích mưa. Lang thang dưới mưa, ngắm nhìn phố phường, dòng người qua lại. Như ông cụ non, suy nghĩ về bản thân, về gia đình, về cuộc đời, về cả tương lai. Có cách nào đi dưới mưa ko bị ướt ko nhỉ? Có ai đó sẵn sàng đi cùng tôi ko nhỉ? :))
 
