@@ -25,6 +25,7 @@ description: Nơi viết ra những tâm sự của bản thân, trút bỏ phi�
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Timeline: "http://thulinh.hocchudong.com/timeline/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
