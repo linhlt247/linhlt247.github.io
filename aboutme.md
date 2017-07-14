@@ -12,9 +12,7 @@ subtitle: Penetration Tester
 
 ### Collaborator - Penetration Tester
 VNPT GROUP
-
-Jun 2017 – Present. 2 mos
-
+Jun 2017 – Present (2 mos)
 VNPT Tower - No. 57 Huynh Thuc Khang Street, Dong Da Dist. Ha Noi
 
 - Perform penetration testing on security-critical web applications, servers.
@@ -22,9 +20,7 @@ VNPT Tower - No. 57 Huynh Thuc Khang Street, Dong Da Dist. Ha Noi
 
 ### Internship - System Engineer
 VNPT DATA
-
-Apr 2016 – May 2017. 1 yr 2 mos
-
+Apr 2016 – May 2017 (1 yr 2 mos)
 Internet Tower, Nguyen Phong Sac Str, Cau Giay Dist, Hanoi
 
 - **Security:**
