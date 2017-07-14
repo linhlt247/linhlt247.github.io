@@ -11,17 +11,18 @@ subtitle: Penetration Tester
 - Activities and Societies: KMA CTF 2016
 
 ### Collaborator - Penetration Tester
-VNPT GROUP
-Jun 2017 – Present (2 mos)
-VNPT Tower - No. 57 Huynh Thuc Khang Street, Dong Da Dist. Ha Noi
+- VNPT GROUP
+- Jun 2017 – Present (2 mos)
+- VNPT Tower - No. 57 Huynh Thuc Khang Street, Dong Da Dist. Ha Noi
+
 
 - Perform penetration testing on security-critical web applications, servers.
 - Report results and consult on remediation.
 
 ### Internship - System Engineer
-VNPT DATA
-Apr 2016 – May 2017 (1 yr 2 mos)
-Internet Tower, Nguyen Phong Sac Str, Cau Giay Dist, Hanoi
+- VNPT DATA
+- Apr 2016 – May 2017 (1 yr 2 mos)
+- Internet Tower, Nguyen Phong Sac Str, Cau Giay Dist, Hanoi
 
 - **Security:**
   - Iptables and Fail2ban: Research, install, write rules protect web server.
