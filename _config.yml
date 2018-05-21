@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://thulinh.hocchudong.com"
-enforce_ssl: thulinh.hocchudong.com
+url: "https://linhlt247.github.io"
+enforce_ssl: linhlt247.github.io
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -25,12 +25,12 @@ description: Nơi viết ra những tâm sự của bản thân, trút bỏ phi�
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Timeline: "http://thulinh.hocchudong.com/timeline/"
+  Timeline: "https://linhlt247.github.io/timeline/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://thulinh.hocchudong.com"
+  Author's home: "https://linhlt247.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thulinh.hocchudong.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "linhlt247.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
